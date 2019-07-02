@@ -1,0 +1,12 @@
+@import url('button.css');
+
+html {
+
+    font: 16px/1.5 Verdana, sansa-serif;
+
+}
+body, input, button{
+    font:inherit;
+    background: #EEE;
+}
+
